@@ -14,7 +14,7 @@ public class TC_001_AccountRegistration extends BaseClass
 	public void test_account_Registration() throws IOException
 	{
 		logger.info("Starting TC_001_AccountRegistration");
-		
+//		comment
 		try
 		{
 			//driver.get("https://demo.opencart.com/");
